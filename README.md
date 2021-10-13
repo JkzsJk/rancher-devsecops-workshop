@@ -29,3 +29,5 @@ If you have any comments, suggestions or feedback to help improving this worksho
 - Github Issues
 - SUSE Community Group
 
+# Footnote
+This is a fork from [dsohk/rancher-devsecops-workshop: Build Your Own DevSecOps using SUSE Rancher](https://github.com/dsohk/rancher-devsecops-workshop).
